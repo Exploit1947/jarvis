@@ -75,6 +75,7 @@ int main()
         
         free(arr);
     }
+    printf("Operation completed succesfully \n");
 
     return 0;
 }
