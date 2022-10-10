@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <limits.h>
 #include <time.h>
+#include<math.h>
 void swap(int *a, int *b) {
     int temp = *a;
     *a = *b;
