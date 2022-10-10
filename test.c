@@ -39,5 +39,6 @@ int main() {
       printf("\n");
    }
    printf("Operation complted; display showed patterns");
+
    return 0;
 }
